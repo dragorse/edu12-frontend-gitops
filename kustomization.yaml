@@ -5,5 +5,6 @@ resources:
 - service.yaml
 - route.yaml
 images:
-- name: ghcr.io/shclub/edu12-frontend
+#- name: ghcr.io/shclub/edu12-frontend
+- name: ghcr.io/dragorse/edu12-frontend
   newTag: "20230326152802"
